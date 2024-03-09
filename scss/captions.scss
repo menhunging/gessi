@@ -1,0 +1,23 @@
+.caption {
+  font-weight: 500;
+
+  & + .caption {
+    margin-top: 16px;
+  }
+}
+
+h1 {
+  font-size: 36px;
+  line-height: 49px;
+  font-weight: 500;
+}
+h2 {
+  font-size: 32px;
+  line-height: 44px;
+  font-weight: 500;
+}
+h3 {
+  font-size: 24px;
+  line-height: 33px;
+  font-weight: 500;
+}
